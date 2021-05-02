@@ -11,8 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pokemon.js": "^1.1.8",
+    "@types/node-fetch": "^2.5.10",
+    "node-fetch": "^2.6.1",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.5"
   }
 }
