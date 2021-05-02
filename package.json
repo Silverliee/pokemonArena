@@ -1,0 +1,18 @@
+{
+  "name": "pokemon-arena",
+  "version": "1.0.0",
+  "description": "Projet pokemon pour le cours de développement angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pokemon.js": "^1.1.8",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  }
+}
